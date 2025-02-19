@@ -20,6 +20,6 @@ I am **Mohammad Irfan**, a passionate **frontend developer** skilled in creating
 🔗 **Portfolio:** https://github.com/irfan-IT01/Personal_portfolio
 📧 **Email:** irfan51210057@gmail.com
 💼 **LinkedIn:** https://www.linkedin.com/in/itirfan07
-🐦 **Twitter:** [Your Twitter Handle]  
+
   
 
